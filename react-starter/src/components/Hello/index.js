@@ -22,7 +22,7 @@ export default function Hello() {
 
   return (
     <div className="hello">
-      <h1>欢迎使用云开发 CloudBase React App</h1>
+      <h1>欢迎使用云开发 CloudBase React App by jalen</h1>
       <div>
         <div>
           <h2>
